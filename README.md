@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Rahman</h1>
-<h3 align="center">A passionate Software Engineer & Data Scientist specializing in Machine Learning, Computer Vision, and Backend Architecture.</h3>
+<h3 align="center">A passionate AI Engineer & Data Scientist specializing in Machine Learning, Computer Vision, and Deep Learning.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abdul-Rahman258&label=Profile%20views&color=0e75b6&style=flat" alt="Abdul-Rahman258" />
