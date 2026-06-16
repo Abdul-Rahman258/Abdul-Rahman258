@@ -61,6 +61,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Rahman258&show_icons=true&theme=radium" alt="Abdul-Rahman258's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rahman258&layout=compact&theme=radium" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Rahman258&theme=radium&hide_border=true" alt="GitHub Streak" />
 </p>
